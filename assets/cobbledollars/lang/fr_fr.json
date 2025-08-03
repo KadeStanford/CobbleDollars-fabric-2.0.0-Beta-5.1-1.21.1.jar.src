@@ -1,0 +1,46 @@
+{
+  "item.cobbledollars.cobble_merchant_spawn_egg": "Oeuf d'Apparition de Cobble Merchant",
+
+  "entity.cobbledollars.cobble_merchant": "Cobble Marchand",
+  "entity.minecraft.villager.cobble_merchant": "Cobble Marchand",
+
+  "gui.cobbledollars.add_offer": "Cliquez pour ajouter %s en tant qu'offre",
+
+  "screen.cobbledollars.shop": "Magasin",
+  "screen.cobbledollars.bank": "Banque",
+
+  "option.cobbledollars.overlay_position.disabled": "Désactivé",
+  "option.cobbledollars.overlay_position.top_left": "Haut Gauche",
+  "option.cobbledollars.overlay_position.top_right": "Haut Droite",
+  "option.cobbledollars.overlay_position.bottom_left": "Bas Gauche",
+  "option.cobbledollars.overlay_position.bottom_right": "Bas Droite",
+
+  "chat.cobbledollars.offline_earnings": "Vous avez gagné %s pendant que vous étiez hors-ligne!",
+
+  "command.cobbledollars.pay.fail": "Pas assez de CobbleDollars",
+  "command.cobbledollars.pay.success": "Envoie de %s à %s",
+  "command.cobbledollars.pay.receive": "%s vous a envoyé %s",
+  "command.cobbledollars.query.success": "%s à %s",
+  "command.cobbledollars.give.success.single": "Don de %s à %s",
+  "command.cobbledollars.give.success.multiple": "Don de %s à %s joueurs",
+  "command.cobbledollars.remove.success.single": "Suppression de %s à %s",
+  "command.cobbledollars.remove.success.multiple": "Suppression de %s à %s jouers",
+  "command.cobbledollars.set.success.single": "Set %s for %s",
+  "command.cobbledollars.set.success.multiple": "Set %s for %s players",
+  "command.cobbledollars.reload": "La configuration de CobbleDollars a été rechargée!",
+  "command.cobbledollars.leaderboard.update": "Le classement de CobbleDollars a été actualisé!",
+
+  "command.cobbledollars.cobblemerchant.add.category.success.single": "Ajout de la catégorie %s pour %s",
+  "command.cobbledollars.cobblemerchant.add.category.success.multiple": "Ajout de la catégorie %s pour %s CobbleMarchands",
+  "command.cobbledollars.cobblemerchant.add.item.success.single": "Ajout de l'offre %s pour %s",
+  "command.cobbledollars.cobblemerchant.add.item.success.multiple": "Ajout de l'offre %s pour %s CobbleMarchands",
+  "command.cobbledollars.cobblemerchant.remove.category.success.single": "Suppression de la catégorie %s pour %s",
+  "command.cobbledollars.cobblemerchant.remove.category.success.multiple": "Suppression de la catégorie %s pour %s CobbleMarchands",
+  "command.cobbledollars.cobblemerchant.remove.item.success.single": "Suppression de l'offre %s pour %s",
+  "command.cobbledollars.cobblemerchant.remove.item.success.multiple": "Suppression de l'offre %s pour %s CobbleMarchands",
+
+  "argument.cobbledollars.big_integer.low": "Insufficient parameters for formatting 'Big Integer must not be less than %s, found %s'",
+  "argument.cobbledollars.big_integer.big": "Insufficient parameters for formatting 'Big Integer must not be more than %s, found %s'",
+
+  "npc.cobbledollars.harmex.name": "Harmex"
+}

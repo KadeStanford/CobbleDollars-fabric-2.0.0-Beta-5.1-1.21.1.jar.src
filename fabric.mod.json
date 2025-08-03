@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "cobbledollars",
+  "version": "2.0.0+Beta-5.1+1.21.1",
+  "name": "CobbleDollars",
+  "description": "Accumulate CobbleDollars and spend it all at merchants!",
+  "authors": ["Harmex"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/cobbledollars",
+    "issues": "https://curseforge.com/minecraft/mc-mods/cobbledollars/issues"
+  },
+  "license": "All rights reserved",
+  "icon": "cobbledollars.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.harmex.cobbledollars.fabric.FabricBootstrap"
+    ],
+    "client": [
+      "fr.harmex.cobbledollars.fabric.client.CobbleDollarsFabricClient"
+    ],
+    "modmenu": [
+      "fr.harmex.cobbledollars.fabric.client.ModMenuImpl"
+    ]
+  },
+  "depends": {
+    "minecraft": ">=1.21.1",
+    "fabricloader": ">=0.16.5",
+    "fabric-api": "*",
+    "cobblemon": ">=1.6.0+1.21.1"
+  },
+  "mixins": [
+    "mixins.cobbledollars-fabric.json",
+    "mixins.cobbledollars-common.json"
+  ],
+  "custom": {
+    "modmenu": {
+      "parent": "cobblemon",
+      "links": {
+        "Patreon": "https://www.patreon.com/harmex"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "fr/harmex/cobbledollars/fabric/mixin/GuiMixin": {
+      "renderCameraOverlays": "Lnet/minecraft/class_329;method_55798(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "fr/harmex/cobbledollars/fabric/mixin/GuiMixin": {
+        "renderCameraOverlays": "Lnet/minecraft/class_329;method_55798(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+      }
+    }
+  }
+}

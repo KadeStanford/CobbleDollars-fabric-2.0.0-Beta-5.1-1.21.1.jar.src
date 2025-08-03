@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "fr.harmex.cobbledollars.common.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "PlayerMixin",
+    "ServerPlayerMixin",
+    "VillagerMixin",
+    "ZombieMixin",
+    "ZombieVillagerMixin"
+  ],
+  "client": [
+    "VillagerProfessionLayerMixin"
+  ],
+  "refmap": "cobbledollars-common-refmap.json"
+}

@@ -1,0 +1,46 @@
+{
+  "item.cobbledollars.cobble_merchant_spawn_egg": "Cobble Merchant Spawn Egg",
+
+  "entity.cobbledollars.cobble_merchant": "Cobble Merchant",
+  "entity.minecraft.villager.cobble_merchant": "Cobble Merchant",
+
+  "gui.cobbledollars.add_offer": "Click to add %s as an offer",
+
+  "screen.cobbledollars.shop": "Shop",
+  "screen.cobbledollars.bank": "Bank",
+
+  "option.cobbledollars.overlay_position.disabled": "Disabled",
+  "option.cobbledollars.overlay_position.top_left": "Top Left",
+  "option.cobbledollars.overlay_position.top_right": "Top Right",
+  "option.cobbledollars.overlay_position.bottom_left": "Bottom Left",
+  "option.cobbledollars.overlay_position.bottom_right": "Bottom Right",
+
+  "chat.cobbledollars.offline_earnings": "You made %s while offline!",
+
+  "command.cobbledollars.pay.fail": "Not enough CobbleDollars",
+  "command.cobbledollars.pay.success": "Sent %s to %s",
+  "command.cobbledollars.pay.receive": "%s sent you %s",
+  "command.cobbledollars.query.success": "%s has %s",
+  "command.cobbledollars.give.success.single": "Gave %s to %s",
+  "command.cobbledollars.give.success.multiple": "Gave %s to %s players",
+  "command.cobbledollars.remove.success.single": "Removed %s from %s",
+  "command.cobbledollars.remove.success.multiple": "Removed %s from %s players",
+  "command.cobbledollars.set.success.single": "Set %s for %s",
+  "command.cobbledollars.set.success.multiple": "Set %s for %s players",
+  "command.cobbledollars.reload": "Reloaded CobbleDollars config!",
+  "command.cobbledollars.leaderboard.update": "Updated the CobbleDollars leaderboard!",
+
+  "command.cobbledollars.cobblemerchant.add.category.success.single": "Added the category %s to %s",
+  "command.cobbledollars.cobblemerchant.add.category.success.multiple": "Added the category %s to %s CobbleMerchants",
+  "command.cobbledollars.cobblemerchant.add.item.success.single": "Added the offer %s to %s",
+  "command.cobbledollars.cobblemerchant.add.item.success.multiple": "Added the offer %s to %s CobbleMerchants",
+  "command.cobbledollars.cobblemerchant.remove.category.success.single": "Removed the category %s from %s",
+  "command.cobbledollars.cobblemerchant.remove.category.success.multiple": "Removed the category %s from %s CobbleMerchants",
+  "command.cobbledollars.cobblemerchant.remove.item.success.single": "Removed the offer %s from %s",
+  "command.cobbledollars.cobblemerchant.remove.item.success.multiple": "Removed the offer %s from %s CobbleMerchants",
+
+  "argument.cobbledollars.big_integer.low": "Insufficient parameters for formatting 'Big Integer must not be less than %s, found %s'",
+  "argument.cobbledollars.big_integer.big": "Insufficient parameters for formatting 'Big Integer must not be more than %s, found %s'",
+
+  "npc.cobbledollars.harmex.name": "Harmex"
+}
